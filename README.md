@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Tia, a Computer Science student at UC Berkeley.
 
-<!--
-**TiaJain/TiaJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer passionate about applied AI/ML and creating accessible, impactful, and customer-centric products. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently at NVIDIA (Sept-Dec 2024), working on building out their cluster rental service
+- 🌱 I’ve previously interned at Salesforce, Susquehanna, Zendesk, and UnitedHealth Group.
+- 👯 I’m looking to collaborate on any cool side projects — especially in the fintech or healthcare space.
+- 💬 Ask me about SWE, AI/ML, product, VC
+- 📫 How to reach me: tiajain [at] berkeley [dot] edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Tools
+- Programming: `Python`, `Golang`, `Java`, `SQL`, `HTML`, `CSS`, `JavaScript`, `C`, `C++` 
+- Tools: `Git`, `Docker`, `Kubernetes`, `Postman`
+
+## 🌟 Highlighted Projects
+1. [Relativity - Bias Detection in LLMs](link) - Short description of what the project is about.
+2. [AI4Sight](link) - iOS app that leverages ML to help the visually impaired navigate their surroundings.
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/tiajain/)
+- [Portfolio](https://tiajain.github.io/)
