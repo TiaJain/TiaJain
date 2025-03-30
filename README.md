@@ -13,7 +13,7 @@ I'm an aspiring software engineer passionate about applied AI/ML and creating ac
 - Tools: `Git`, `Docker`, `Kubernetes`, `Postman`
 
 ## 🌟 Highlighted Projects
-1. [Relativity - Bias Detection in LLMs](https://github.com/alishabose/Relativity-1D) - Short description of what the project is about.
+1. [Relativity - Bias Detection in LLMs](https://github.com/alishabose/Relativity-1D) 
 2. [AI4Sight](https://github.com/TiaJain/AI4Sight) - iOS app that leverages ML to help the visually impaired navigate their surroundings.
 
 ## 🌐 Let's Connect
