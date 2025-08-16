@@ -1,9 +1,10 @@
-# 👋 Hi there! I'm Tia, a Computer Science student at UC Berkeley.
+# 👋 Hi there! I'm Tia.
 
-I'm an aspiring software engineer passionate about applied AI/ML and creating accessible, impactful, and customer-centric products. Here's a bit about me:
+Here's a bit about me:
 
-- 🔭 I’m currently at NVIDIA (Sept-Dec 2024), working on building out their cluster rental service
-- 🌱 I’ve previously interned at Salesforce, Susquehanna, Zendesk, and UnitedHealth Group.
+- 👩‍💻 Current Software Engineer @ Meta working on making inference more efficient for their recommendation systems!
+- 🎓 Recent Computer Science grad from UC Berkeley
+- 🌱 I’ve previously interned at Instawork, NVIDIA, Salesforce, Susquehanna, Zendesk, and UnitedHealth Group.
 - 👯 I’m looking to collaborate on any cool side projects — especially in the fintech or healthcare space.
 - 💬 Ask me about SWE, AI/ML, product, VC
 - 📫 How to reach me: tiajain [at] berkeley [dot] edu
